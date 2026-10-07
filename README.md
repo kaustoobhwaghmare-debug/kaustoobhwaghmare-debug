@@ -37,25 +37,12 @@ Programming practice and basic data-structure/algorithm programs in **C**.
 ### 🐘 PHP Practice
 Basic PHP programs covering arrays, loops, forms and user input.
 
----
-
-## 📊 GitHub Stats
-
-![Kaustoobh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeshwakade301&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshwakade301&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sandeshwakade301&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [@kaustoobhwaghmare-debug](https://github.com/sandeshwakade301)
+- GitHub: [@kaustoobhwaghmare-debug]
 - Email: kaustoobhwaghmare@gmail.com
 
 ---
